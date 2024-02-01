@@ -1,0 +1,19 @@
+{
+  "name": "fetching-dog-data",
+  "version": "0.1.0",
+  "description": "JavaScript Fetch API to retrieve data from the Dog API",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "Nahom Alemu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
